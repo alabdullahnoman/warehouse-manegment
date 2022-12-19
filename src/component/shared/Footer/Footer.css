@@ -1,0 +1,10 @@
+.footer-area{
+    flex-wrap: wrap;
+}   
+
+
+@media screen and (max-width: 668px) {
+    .footer-area{
+        flex-wrap: wrap;
+    }   
+}
